@@ -1,0 +1,4 @@
+mode,label,factor_kg_per_tonne_km,description
+road_ftl,Road (FTL),0.0623,Full Truckload - dedicated truck for one shipment
+road_ltl,Road (LTL),0.1025,Groupage / Less-than-Truckload - shared truck space
+air,Air Freight,0.602,Air cargo - fastest but highest emissions
